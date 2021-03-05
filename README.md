@@ -31,6 +31,7 @@ Display your photos from album of Google Photos on MagicMirror
 ## Regular installation
 1. Install Module
 ```sh
+cd MagicMirror/modules/
 git clone https://github.com/eouia/MMM-GooglePhotos.git
 cd MMM-GooglePhotos
 npm install
